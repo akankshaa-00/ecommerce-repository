@@ -1,0 +1,58 @@
+.navbar__component {
+   width: 100vw;
+   height: 40px;
+   background-color: rgb(53, 173, 243);
+   display: flex;
+
+}
+.navbar__brand {
+   color: antiquewhite;
+   font-size: larger;
+   font-style:italic;
+   font-weight: bold;
+   margin: 0px 20px;
+   margin-top: 8px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.navbar__signIn {
+color: antiquewhite;
+margin-left: 500px;
+margin-top: 8px;
+}
+
+.navbar__returns {
+   color: antiquewhite;
+   margin-left: 50px;
+   margin-top: 8px;
+}
+
+.navbar__cart {
+   color: antiquewhite;
+   margin-left: 50px;
+   margin-top: 8px;
+}
+
+.form-control {
+   margin-left: 100px;
+   size: 200px;
+   margin-top: 8px;
+}
+
+.btn  {
+   width: 60px;
+   height: 20px; 
+   margin-top: 8px;
+}
+
+.navbar__footer {
+   width: 100vw;
+   height: 30px;
+   background-color:rgb(177, 241, 238) ;
+   display: flex;
+}
+
+.navbar__footer__canvas {
+   margin: 5px 10px;
+   font-size: 14px ;
+   font-weight: bold;
+}

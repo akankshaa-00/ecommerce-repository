@@ -1,0 +1,18 @@
+.AdvertisementOne__main {
+margin-left: 30px;
+margin-top: 200px;
+height: 300px;
+width: 300px;
+background: white;
+
+}
+
+.AdvertisementOne__body {
+padding-left: 20px;
+padding-top: 15px;
+
+}
+
+.AdvertisementOne__footer {
+padding-left: 20px;
+}
